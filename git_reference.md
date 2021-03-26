@@ -7,6 +7,11 @@ A repo is like a folder that is shared with a remote server (Github is a common 
 ## Basic Process
 
 A user can `clone` a repo, which means downloading a copy of it to their device.
+- Clone this repo by using the following line in powershell:
+- `git clone https://github.com/bvs7/Learn_Python.git`
+- **When you clone a repo, a new folder will be created to contain it! Make sure your powershell has been navigated to a good place for this folder**
+- After cloning the repo use `cd Learn_Python` to navigate the terminal to that repo.
+- Then use `git status` to check that the repo has been cloned correctly.
 
 Once there, you can make changes to the repo.
 
