@@ -1,6 +1,6 @@
 # Git
 
-Git is an open source standard version control system. It is used for collaborative work on a repository, or code base.
+**Git** is an open source standard version control system. It is used for collaborative work on a repository, or code base.
 
 A repo is like a folder that is shared with a remote server (Github is a common git server).
 
@@ -39,3 +39,4 @@ Good Practices when programming in a repo include the following:
 - Make small commits: If your commit doesn't change much, it is easier to follow the code development.
 - Commit often: This helps keep your commits managable, and lets your commits follow your workflow.
 - Push working code: Usually, its best to have your code working before you push it. Otherwise you might cause problems for anyone who pulls the repo.
+- Keep commits on focus: Try to keep the changes in each commit focused around a certain process
