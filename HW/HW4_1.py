@@ -1,4 +1,7 @@
 
+# You need to implement, is_red(), matches(), and beats() for this class
+# Don't forget to keep all of the necessary indentation for each function!
+
 class Card:
 
   SUITS = ["Spades", "Diamonds", "Hearts", "Clubs"]
