@@ -1,8 +1,4 @@
 
-# You can use random.shuffle(deck_list) to shuffle a deck!
-import random
-
-
 class Card:
 
   SUITS = ["Spades", "Diamonds", "Hearts", "Clubs"]
@@ -11,6 +7,9 @@ class Card:
   def __init__(self, suit, value):
     self.suit = suit
     self.value = value
+
+  def __repr__(self):
+    return "<{} of {}>".format(self.value, self.suit)
 
   def get_int_value(self):
     if self.value == "A":

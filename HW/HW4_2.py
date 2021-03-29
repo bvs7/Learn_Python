@@ -1,5 +1,6 @@
 
-from HW4_1 import *
+# This import statement imports the Card class from HW4_1
+from HW4_1 import Card
 
 # A deck is a list of cards
 
