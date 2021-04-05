@@ -45,3 +45,7 @@ Good Practices when programming in a repo include the following:
 - Commit often: This helps keep your commits managable, and lets your commits follow your workflow.
 - Push working code: Usually, its best to have your code working before you push it. Otherwise you might cause problems for anyone who pulls the repo.
 - Keep commits on focus: Try to keep the changes in each commit focused around a certain process
+
+## Git Process Flow Chart
+
+1) Open git bash to the appropriate directory (The directory called Learn_Python that was cloned)
